@@ -1,1 +1,2 @@
 # Projet_CPOA
+C’est un projet pour développer un logiciel en suivant les préceptes de l'agilité et mettant en œuvre un ensemble de bonnes pratiques. On était 2 dans le groupe, on a fait se connecter à  une base de données, fait class métier et les tests unitaires JUnit, class DAO, DAO Factory. on a appris l’architecture MVC(modèle, vue et contrôleur), après ce projet, je pense que JavaFx qui est plus facile que JavaSwing pour déveloper un logiciel.
